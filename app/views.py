@@ -8,11 +8,28 @@ This file creates your application.
 
 from app import app
 from flask import render_template, request, redirect, url_for
+import time
 
 
 ###
 # Routing for your application.
 ###
+
+@app.route('/profile')
+def profile():
+    name = "Kashif Ford"
+    def timeinfo():
+        day_of_week=(time.strftime('%a'))
+        day=(time.strftime('%d'))
+        month=(time.strftime('%b'))
+        year=(time.strftime('%Y'))
+        return render_template('profile.html', name=name,
+                                            day_of_week=day_of_week,
+                                            day=day,
+                                            month=month,
+                                            year=year)
+    return timeinfo()
+
 
 @app.route('/')
 def home():
