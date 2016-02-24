@@ -2,81 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ba0f20f-507a-4df7-960b-444ade35a61d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Procfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/css/main.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/img/octocat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/js/less.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/js/modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/templates/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/templates/_form_helpers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/templates/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/templates/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/templates/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/templates/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/templates/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/virtualenv.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views.py" afterPath="$PROJECT_DIR$/app/views.py" />
     </list>
     <ignored path="info3180-lab2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,13 +26,15 @@
     <favorites_list name="info3180-lab2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5994962">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-              <folding />
+            <state vertical-scroll-proportion="0.28052804">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="e#231#250#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -283,27 +211,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -326,19 +254,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#231#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23448277">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5994962">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
+        <state vertical-scroll-proportion="0.28052804">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#231#250#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

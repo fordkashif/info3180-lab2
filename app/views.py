@@ -15,6 +15,7 @@ import time
 # Routing for your application.
 ###
 
+##route for profile
 @app.route('/profile')
 def profile():
     name = "Kashif Ford"
